@@ -1,0 +1,1 @@
+Today i learned about data-types,subscripting,data type convesion(casting),mathmatical operations.
