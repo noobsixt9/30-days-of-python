@@ -1,0 +1,2 @@
+Today i learned about lists in python, IndexError, Random module in python, how to use it and print random integers,floats, Nested lists, how to use 
+indexing in nested lists.
