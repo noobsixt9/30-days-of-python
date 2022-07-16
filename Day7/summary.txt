@@ -1,0 +1,1 @@
+Today i learned to make a hangman game using lists, learned how to use import, used previous learned stuffs like conditionals, loops(for loop and while loop).
