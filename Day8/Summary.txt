@@ -1,0 +1,2 @@
+Today i learned about functions with arguement, played with things that i learned before like conditional statements, loops, indexing, string manipulationss.
+Wrote an awesome script to encrypt and decrypt caesar cipher.
