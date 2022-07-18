@@ -1,0 +1,2 @@
+Today i learned about dictionaries in python, adding values in dictionaries, deleting values, nesting dictionary and list inside a dictionary,
+looping through dictionary, wrote awesome program using conditional statements, while loop, for loop about silent acution program.
