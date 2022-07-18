@@ -19,7 +19,7 @@ def highest_bidder(bidding_record):
 while more_bidders:
   print("Welcome to silent auction program.")
   name = input("What is your name?: ")
-  bid = int(input("What is your bid?: "))
+  bid = int(input("What is your bid?: $"))
   other_bidders = input("Are there any other bidders? Type 'yes' or 'no'.\n")
   bidders[name] = bid
   if other_bidders == 'yes':
