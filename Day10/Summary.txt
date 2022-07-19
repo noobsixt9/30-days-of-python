@@ -1,0 +1,1 @@
+Today i learned about functins with output, return, print vs return, dictionary, nested dictionary. Using all these wrote some cool program calculator.
