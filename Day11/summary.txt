@@ -1,0 +1,3 @@
+Today i used all the things i learned on previous days and used it to create a blackjack game. It have variables, lists, for loop, while loop, operations on
+lists, different modules, inserting vairables from another file within same directory. It was pretty hard at first cuase i didn't know what blackjack game was
+but eventually did it. 
