@@ -1,0 +1,1 @@
+Today i learned about scopes, local scope, global scope, does python have block scope, global scope modification and using previous knowledge wrote a number guessing game.
