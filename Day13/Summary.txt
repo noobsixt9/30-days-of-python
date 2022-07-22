@@ -1,0 +1,11 @@
+Today i learned about debugging tips:
+- Describe the problem
+- Reproduce bugs i.e keep testing your program using differnt values, check if it have bugs or not
+- Evaluate each line
+- Watch red underlines
+- test if your code is running as you want using print function
+- use debuggers like pythontutor.com
+- Take rest for sometime 
+- Ask a friend or someone experienced 
+- google the error and search solutions on stackoverflow
+- Run often i.e keep testing your code while writing 
