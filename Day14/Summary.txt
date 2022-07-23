@@ -1,0 +1,2 @@
+wrote a simple but addictive game and also i think it increases IQ too if you use real data in it haha. I used previously learned concepts in this program like
+vairables, functions, loops, dictionary, different modules, conditional statments and so on.
