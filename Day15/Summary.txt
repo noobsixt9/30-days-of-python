@@ -1,0 +1,1 @@
+Today i learned about IDE, how to set it up for python, how to configue it, benefits of it and wrote a coffe machine program using all the previus things i learned.
