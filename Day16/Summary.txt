@@ -1,1 +1,1 @@
-Today i learned about OOP, what is Class, object, how to write them, how to use them and wrote previous coffe machine code using OOP.
+Today i learned about OOP,Class, object, how to write them, how to use them and wrote previous coffe machine code using OOP.
