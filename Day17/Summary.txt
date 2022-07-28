@@ -1,0 +1,2 @@
+Today i learned about how to import packages, how to create classes, objects, objects attributes, object methods. Used turtle package played with it.
+Finally wrote a quiz program using OOP classes and objects.
