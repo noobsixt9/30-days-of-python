@@ -1,0 +1,2 @@
+Today i have learned about file handling in python how to import file in python programs using different paths, how to read contents of file, how to write on it.
+I also learned about pretty cool functions like readlines, strip, read, write and used all of this knowledge to improve my previous snake game.
