@@ -1,0 +1,2 @@
+Today i learned about CSV files, how to import them, how to analyse data from csv files. I also learned about pandas library in python which is super cool 
+and super powerful when it comes to data analysing. At last i made a quizz game to learn about provinces in nepal.
