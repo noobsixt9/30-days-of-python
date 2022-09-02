@@ -1,0 +1,2 @@
+Today i learned about list comprehension, conditional list comprehension, dictonary comprehension and conditional dictonary comprehension. 
+I also learned about NATO Phonetic Alphabets and why they are used. Made a program to generate a NATO Alphabet according to the user given input.
