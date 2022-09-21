@@ -1,0 +1,2 @@
+Day 28 after a very long period i have finally continued my 30 days of python and today i made a program using tkinter module to manage time while working 
+used a lots of new methods from tkinter module like label, canvas, button.
