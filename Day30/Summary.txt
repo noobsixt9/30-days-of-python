@@ -1,0 +1,3 @@
+Today i learned about error handling in python,try blocks, json file handling, how to read, write and update json files. With all of these previous knowledge
+i recreated my last password manager program. i have used try blocks for exceptions which made program much more efficent, added a new function search to
+search for saved credentials, used json which easier to read and manage than a text file. 
